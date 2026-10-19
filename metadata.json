@@ -1,0 +1,6 @@
+{
+  "name": "常識小達人：人體與平安冒險王",
+  "description": "香港小學常識科遊戲化複習系統，涵蓋呼吸消化、生殖發育、急救與危機逃生，具備計分闖關與限時挑戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
